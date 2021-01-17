@@ -1,5 +1,5 @@
 ---
-title: Prueba 2
+title: "Prueba 2"
 date: "2021-01-01"
 template: "post"
 draft: false

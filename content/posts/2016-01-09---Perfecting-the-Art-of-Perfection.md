@@ -1,5 +1,5 @@
 ---
-title: Iván Juma
+title: "Iván Juma"
 date: "2021-01-16"
 template: "post"
 draft: false
